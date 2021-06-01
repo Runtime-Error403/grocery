@@ -33,7 +33,7 @@ float totalExp (float onion, float tomato, float potato, float peas, float ginge
     float t = 80*tomato;
     float p = 100*potato;
     float pe = 90*peas;
-    float g = 200*ginger;
+    float g = 100*ginger;
     float gar = 250*garlic;
     float total = o+t+p+pe+g+gar;
     printf ("Your total expense is %f .\n Thank you for shopping. \n visit us again.\n",total);
